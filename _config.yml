@@ -1,4 +1,7 @@
 # Where things are
+theme: jekyll-theme-minimal
+title: Josh Kornell
+description: Bookmark this to keep an eye on my project updates!
 source              : .
 destination         : ./_site
 collections_dir     : .
